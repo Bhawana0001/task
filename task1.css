@@ -1,0 +1,66 @@
+body {
+	background-image: url(https://c8.alamy.com/comp/W4HTRW/indian-cuisine-dishes-tikka-masala-dal-hapati-chutney-spices-indian-food-on-white-wooden-background-assortment-indian-meal-with-copy-space-for-text-top-view-or-flat-lay-W4HTRW.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+h1 {
+	align-content: center;
+	color: rgb(0, 204, 211);
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 100px;
+	font-weight: 600;
+}
+
+h2 {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	color: teal;
+}
+
+#s1 {
+	position: relative;
+	bottom: 0;
+	right: -1000px;
+	max-width: 200px;
+	font-size: 100%;
+	font-weight: 900;
+	font-family: sans-serif;
+	color: maroon;
+	text-decoration: yellow;
+}
+
+#s2 {
+	position: relative;
+	bottom: 80px;
+	top: 40px;
+	right: 100px;
+	max-width: 200px;
+	max-height: 200px;
+	float: right;
+	font-weight: 900;
+	font-family: sans-serif;
+	color: red;
+}
+
+#s3 {
+	position: relative;
+	bottom: 60px;
+	top: 90px;
+	left: 700px;
+	right: 200px;
+	font-size: 100%;
+	max-width: 200px;
+	max-height: 200px;
+	font-weight: 900;
+	text-align: center;
+	font-family: sans-serif;
+	color: darkgreen;
+}
+
+button {
+	background-color: lightcoral;
+	border: none;
+	font-size: 20px;
+	text-align: center;
+}
